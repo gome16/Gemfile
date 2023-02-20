@@ -1,0 +1,22 @@
+current directory: /Users/cork44/Desktop/programing/lesson_ruby/myapp/vendor/bundle/ruby/3.2.0/gems/byebug-11.1.3/ext/byebug
+/Users/cork44/.rbenv/versions/3.2.0/bin/ruby -I /Users/cork44/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/cork44/Desktop/programing/lesson_ruby/myapp/vendor/bundle/ruby/3.2.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20230209-52089-uxsjta sitelibdir\=./.gem.20230209-52089-uxsjta clean
+
+current directory: /Users/cork44/Desktop/programing/lesson_ruby/myapp/vendor/bundle/ruby/3.2.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20230209-52089-uxsjta sitelibdir\=./.gem.20230209-52089-uxsjta
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/cork44/Desktop/programing/lesson_ruby/myapp/vendor/bundle/ruby/3.2.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20230209-52089-uxsjta sitelibdir\=./.gem.20230209-52089-uxsjta install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20230209-52089-uxsjta/byebug
+
+current directory: /Users/cork44/Desktop/programing/lesson_ruby/myapp/vendor/bundle/ruby/3.2.0/gems/byebug-11.1.3/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20230209-52089-uxsjta sitelibdir\=./.gem.20230209-52089-uxsjta clean

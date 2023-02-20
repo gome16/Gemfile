@@ -1,0 +1,18 @@
+current directory: /Users/cork44/Desktop/programing/lesson_ruby/myapp/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/cork44/.rbenv/versions/3.2.0/bin/ruby -I /Users/cork44/.rbenv/versions/3.2.0/lib/ruby/3.2.0 extconf.rb
+creating Makefile
+
+current directory: /Users/cork44/Desktop/programing/lesson_ruby/myapp/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230209-52089-l39ecf sitelibdir\=./.gem.20230209-52089-l39ecf clean
+
+current directory: /Users/cork44/Desktop/programing/lesson_ruby/myapp/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230209-52089-l39ecf sitelibdir\=./.gem.20230209-52089-l39ecf
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/cork44/Desktop/programing/lesson_ruby/myapp/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230209-52089-l39ecf sitelibdir\=./.gem.20230209-52089-l39ecf install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20230209-52089-l39ecf/skiptrace/internal
+
+current directory: /Users/cork44/Desktop/programing/lesson_ruby/myapp/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230209-52089-l39ecf sitelibdir\=./.gem.20230209-52089-l39ecf clean
